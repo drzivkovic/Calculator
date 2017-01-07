@@ -12,7 +12,7 @@
 		FB163F231E1DA30A001BCD54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB163F211E1DA30A001BCD54 /* Main.storyboard */; };
 		FB163F251E1DA30A001BCD54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB163F241E1DA30A001BCD54 /* Assets.xcassets */; };
 		FB163F281E1DA30A001BCD54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB163F261E1DA30A001BCD54 /* LaunchScreen.storyboard */; };
-		FBC8C5011E20546700238E01 /* Calculator Brain.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC8C5001E20546700238E01 /* Calculator Brain.swift */; };
+		FBC8C5011E20546700238E01 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC8C5001E20546700238E01 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		FB163F241E1DA30A001BCD54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB163F271E1DA30A001BCD54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB163F291E1DA30A001BCD54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FBC8C5001E20546700238E01 /* Calculator Brain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Calculator Brain.swift"; path = "Calculator/Calculator Brain.swift"; sourceTree = "<group>"; };
+		FBC8C5001E20546700238E01 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalculatorBrain.swift; path = Calculator/CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +40,7 @@
 		FB163F111E1DA30A001BCD54 = {
 			isa = PBXGroup;
 			children = (
-				FBC8C5001E20546700238E01 /* Calculator Brain.swift */,
+				FBC8C5001E20546700238E01 /* CalculatorBrain.swift */,
 				FB163F1C1E1DA30A001BCD54 /* Calculator */,
 				FB163F1B1E1DA30A001BCD54 /* Products */,
 			);
@@ -150,7 +150,7 @@
 			files = (
 				FB163F201E1DA30A001BCD54 /* ViewController.swift in Sources */,
 				FB163F1E1E1DA30A001BCD54 /* AppDelegate.swift in Sources */,
-				FBC8C5011E20546700238E01 /* Calculator Brain.swift in Sources */,
+				FBC8C5011E20546700238E01 /* CalculatorBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
